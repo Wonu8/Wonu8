@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wonu8. Also very new to the Tech Space
+- 👋 Hi, I’m @Wonu8. Also new to the Tech Space
 - 👀 I’m interested in making connections and collaborations
 - 🌱 I’m currently learning HTML, CSS, and JavaScript on Udemy. Open to other learning platforms
 - 💞️ I’m looking to collaborate on projects 
